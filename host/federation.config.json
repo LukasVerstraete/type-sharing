@@ -1,0 +1,7 @@
+{
+  "name": "host",
+  "remotes": {
+    "header": "header@http://localhost:3001/remoteEntry.js"
+  },
+  "exposes": {}
+}

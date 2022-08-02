@@ -1,0 +1,6 @@
+{
+  "name": "header",
+  "exposes": {
+    "./Header": "./src/components/header.tsx"
+  }
+}
